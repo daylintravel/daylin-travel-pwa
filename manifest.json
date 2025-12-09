@@ -1,0 +1,21 @@
+{
+  "name": "Daylin Travel App",
+  "short_name": "Daylin Travel",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#caa960",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/msgsndr/J3wlz1jWxHJsjJz34mUQ/media/6937cc52aba1f60877c5dd12.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://storage.googleapis.com/msgsndr/J3wlz1jWxHJsjJz34mUQ/media/6937cc5250387f8c73778389.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
